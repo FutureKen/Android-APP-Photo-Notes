@@ -1,4 +1,5 @@
-Project 3 – Photo Notes
+Photo Notes
+=========
 
 Overview 
 =========
